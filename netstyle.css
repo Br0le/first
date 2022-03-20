@@ -1,0 +1,80 @@
+.top{
+    color:red;
+
+	position:absolute;
+	left:5px;
+	top:10px;
+	height:20px;
+	width:10px;
+    
+ }
+ 
+
+
+#main{
+       color:white;
+            width: 400px;
+            height:100px;
+            margin: 50% auto;
+            padding: 30px;
+        
+      
+}
+
+.aqui{
+      position:absolute;
+	left:50px;
+	top:400px;
+      
+}
+
+.idioma{
+      position:absolute;
+	right:50px;
+	top:8px;
+	padding:14px;
+	height:20px;
+	width:10px;
+    
+}
+
+
+.entrar{
+   
+	  color:white;
+	background-color:red;
+	padding:8px;
+	position:absolute;
+	top:10px;
+	right:80px;
+	border-radius:7px;
+    
+}     
+
+body {
+  background-image: url("Netflix~2.jpg");
+  background-repeat: no-repeat;
+}
+
+.vamos{
+				
+color:white;
+	background-color:red;
+	position:absolute;
+	right:19px;
+	top:400px;
+	padding:8px;
+}
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
